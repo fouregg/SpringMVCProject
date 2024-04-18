@@ -1,5 +1,6 @@
-package com.example.spring.demo;
+package com.example.spring.demo.configs;
 
+import com.example.spring.demo.model.Book;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;

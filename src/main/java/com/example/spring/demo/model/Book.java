@@ -1,4 +1,4 @@
-package com.example.spring.demo;
+package com.example.spring.demo.model;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Scope;
